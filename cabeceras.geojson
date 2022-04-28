@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "name": "cabeceras",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"crs": { "type": "name", "properties": { "name": 	"urn:ogc:def:crs:EPSG::4326"} },
 "features": [
 { "type": "Feature", "properties": { "nombre": "SAN MARCOS", "tipo": 1.0, "cod_mun": 1201.0, "nom_muni": "San Marcos", "cod_dep": 12.0, "nom_dep": "San Marcos", "fid_1": 108.0, "objectid": 110.0, "codigo": 1201.0, "municipio": "San Marcos", "cod_dep_1": 12.0, "departamen": "San Marcos", "shape_leng": 74859.147881800003, "shape_area": 120601520.141, "departam_1": "San Marcos", "telefonos": "77602191, 77601570, 77601614" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -91.795555674533801, 14.961110878657697 ] ] } },
 { "type": "Feature", "properties": { "nombre": "PALESTINA DE LOS ALTOS", "tipo": 1.0, "cod_mun": 924.0, "nom_muni": "Palestina de los Altos", "cod_dep": 9.0, "nom_dep": "Quetzaltenango", "fid_1": 128.0, "objectid": 130.0, "codigo": 924.0, "municipio": "Palestina de los Altos", "cod_dep_1": 9.0, "departamen": "Quetzaltenango", "shape_leng": 27789.566960100001, "shape_area": 36030795.6505, "departam_1": "Palestina de los Altos", "telefonos": "52205656" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -91.693888978759929, 14.931944367267576 ] ] } },
